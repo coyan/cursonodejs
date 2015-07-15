@@ -1,18 +1,13 @@
 {
-  "name": "quiz",
-  "version": "0.0.0",
+  "name": "cursonodejs",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
   "engines": {
-<<<<<<< HEAD
     "node": "0.10.x",
     "npm": "1.4.x"
-=======
-    "node": "0.10.37",
-    "npm": "2.12.1"
->>>>>>> 1a33a0f998f637d35babb20f7aca1d205be34739
   },
   "dependencies": {
     "express": "~4.9.0",
